@@ -1,0 +1,6 @@
+@YouTubeAPI_HostAddress = http://localhost:5197
+
+GET {{YouTubeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
